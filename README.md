@@ -1,1 +1,1 @@
-# This are my Java projects im doing to get better in Programming.
+# This are my Java projects im doing to get a better understanding of Java.
